@@ -1,0 +1,10 @@
+title: Credit Card Approval
+emoji: 🚀
+colorFrom: purple
+colorTo: red
+sdk: streamlit
+sdk_version: 1.41.1
+app_file: app.py
+pinned: false
+license: other
+short_description: Unsupervised Machine Learning Project
