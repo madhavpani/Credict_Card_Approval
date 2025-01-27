@@ -17,4 +17,4 @@ jobs:
       - name: Push to hub
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
-        run: git push https://madhav-paniE:$HF_TOKEN@huggingface.co/spaces/madhav-pani/Credit_Card_Approval main
+        run: git push --force https://madhav-paniE:$HF_TOKEN@huggingface.co/spaces/madhav-pani/Credit_Card_Approval main
